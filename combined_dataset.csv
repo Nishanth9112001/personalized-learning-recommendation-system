@@ -1,0 +1,201 @@
+Student_ID,Name,Learning_Style,Subject,Cognitive_Score,Hours_Studied_per_week,Previous_Performance,Difficulty_Level,attention_score,avg_study_time_min,quiz_score_pct,prior_knowledge_level,num_attempts,engagement_events,sleep_hours,preferred_learning_style,recommended_path,suggested_topic_focus
+S1000,Student_1,Kinesthetic,Chemistry,54.8,11.4,C,Medium,72.5,85.7,38.1,0,2,4,8,0,1,Practice Problems
+S1001,Student_2,Mixed,English,68.5,7.4,D,Easy,62.9,91.8,58,1,3,3,4.9,2,1,Practice Problems
+S1002,Student_3,Visual,Chemistry,69.4,7.9,A,Easy,74.7,107.5,70.1,1,2,2,8.6,0,1,Practice Problems
+S1003,Student_4,Kinesthetic,Mathematics,54.3,4,C,Medium,87.8,106.6,70.9,1,1,2,5,1,2,Advanced Concepts
+S1004,Student_5,Kinesthetic,English,93,7.9,B,Medium,61.5,33.7,61,1,4,1,8.2,1,1,Practice Problems
+S1005,Student_6,Mixed,Mathematics,72.1,6.8,A,Easy,61.5,46.9,82.5,1,4,2,8.4,0,1,Practice Problems
+S1006,Student_7,Visual,English,47.1,9.3,A,Easy,88.7,90.5,48.6,1,3,5,5.7,1,2,Advanced Concepts
+S1007,Student_8,Visual,English,74.8,4.7,D,Hard,76.5,90.4,67.2,1,1,6,6.5,2,1,Practice Problems
+S1008,Student_9,Kinesthetic,Physics,50.4,10.1,C,Hard,58,90.5,72.4,0,2,4,5.7,0,1,Practice Problems
+S1009,Student_10,Auditory,Mathematics,76.8,14.1,C,Medium,73.1,190.6,80.3,2,3,2,6.7,0,2,Advanced Concepts
+S1010,Student_11,Kinesthetic,Chemistry,82.4,7.6,B,Easy,58,92.1,84.2,1,6,5,6.6,2,1,Practice Problems
+S1011,Student_12,Kinesthetic,Chemistry,52.7,9.6,D,Easy,58,109.1,47.5,1,3,4,7.9,1,1,Practice Problems
+S1012,Student_13,Kinesthetic,Mathematics,79.5,10.8,B,Easy,68.6,103.6,39.3,1,4,3,8.6,2,1,Practice Problems
+S1013,Student_14,Kinesthetic,Chemistry,71.2,6.4,D,Hard,36.3,94.5,95.6,2,3,4,8.7,2,1,Practice Problems
+S1014,Student_15,Mixed,Chemistry,77.3,8.9,B,Easy,39.1,65.5,76.6,0,3,0,6.3,2,1,Practice Problems
+S1015,Student_16,Visual,Mathematics,93.5,8.1,B,Medium,56.6,97.8,55,1,6,2,6.7,2,1,Practice Problems
+S1016,Student_17,Mixed,English,61.3,8.4,B,Easy,49.8,51.8,100,1,5,2,5,0,1,Practice Problems
+S1017,Student_18,Mixed,Mathematics,53.7,4.9,B,Medium,69.7,67.9,72.3,1,3,3,6,0,1,Practice Problems
+S1018,Student_19,Mixed,English,51.7,8.1,C,Medium,51.4,60.4,93.6,0,1,5,8.2,2,1,Practice Problems
+S1019,Student_20,Kinesthetic,Chemistry,52.8,10,C,Hard,43.8,77.5,71.4,2,4,3,8.9,1,1,Practice Problems
+S1020,Student_21,Auditory,Chemistry,63.8,13.8,B,Easy,87,144.4,100,2,3,5,5.5,0,2,Advanced Concepts
+S1021,Student_22,Visual,Chemistry,70.1,11.8,D,Easy,61.6,19,100,1,4,2,6.3,0,1,Practice Problems
+S1022,Student_23,Auditory,Physics,69.2,16.6,B,Easy,66,95.6,65,1,2,4,7,2,1,Practice Problems
+S1023,Student_24,Mixed,English,77.4,4.9,C,Hard,43.6,26.6,89.4,2,2,5,7.3,1,1,Practice Problems
+S1024,Student_25,Mixed,Physics,65.2,11.5,D,Hard,56.8,60.8,82.9,1,6,2,6,1,1,Practice Problems
+S1025,Student_26,Auditory,Physics,86.8,8.7,C,Medium,66.7,107.7,97.4,0,4,1,7.5,1,1,Practice Problems
+S1026,Student_27,Auditory,Mathematics,61,16.8,A,Medium,47.7,76.9,50.7,1,5,0,6.4,0,0,Foundations
+S1027,Student_28,Auditory,Physics,100,4.8,D,Medium,70.6,42.7,83.7,1,3,4,7,0,1,Practice Problems
+S1028,Student_29,Mixed,Mathematics,74.4,4.6,C,Easy,56,53.5,91.2,1,2,3,7.7,0,1,Practice Problems
+S1029,Student_30,Mixed,Mathematics,52.1,5.6,B,Hard,60.6,95.4,34.8,1,2,4,7,0,1,Practice Problems
+S1030,Student_31,Visual,Physics,48.9,0.5,A,Medium,56,53.1,46.3,2,1,1,6.5,2,1,Practice Problems
+S1031,Student_32,Visual,English,72.2,5.9,C,Medium,92.8,81.5,29.2,2,1,1,6.9,1,1,Practice Problems
+S1032,Student_33,Mixed,English,61.6,5,C,Medium,64.8,76.4,64.6,1,4,2,6.9,2,1,Practice Problems
+S1033,Student_34,Auditory,English,75.7,8.6,C,Easy,49.1,55.5,84.4,0,4,2,6.6,2,1,Practice Problems
+S1034,Student_35,Auditory,English,72.1,9.4,D,Easy,77.3,139.3,100,2,5,1,6.7,0,2,Advanced Concepts
+S1035,Student_36,Visual,English,63.9,15.5,C,Medium,46.7,94,71.5,2,3,2,8.9,1,1,Practice Problems
+S1036,Student_37,Mixed,Physics,52.3,11.8,A,Easy,68.1,14.2,100,0,5,5,7.7,1,1,Practice Problems
+S1037,Student_38,Visual,Physics,42.3,5.7,B,Medium,35.6,80.6,42.4,2,2,2,6.6,2,1,Practice Problems
+S1038,Student_39,Visual,Chemistry,58.3,4.4,B,Easy,45.1,55.1,35.9,2,3,3,7.8,0,0,Foundations
+S1039,Student_40,Kinesthetic,English,77.8,10,C,Medium,68,100.6,68.9,1,1,4,6.6,1,2,Advanced Concepts
+S1040,Student_41,Kinesthetic,Physics,68.2,2.7,A,Easy,76.1,51.2,77.7,1,6,2,8.4,1,1,Practice Problems
+S1041,Student_42,Kinesthetic,Chemistry,46.3,15.3,C,Medium,67.6,71.6,69.3,1,3,2,7.4,0,1,Practice Problems
+S1042,Student_43,Auditory,English,67.6,12.7,C,Medium,63.3,90.1,28.7,0,3,2,6.9,0,0,Foundations
+S1043,Student_44,Mixed,Mathematics,70.8,6.1,D,Easy,60.5,101,68.2,1,4,5,7.5,1,1,Practice Problems
+S1044,Student_45,Mixed,Chemistry,51.7,1.1,B,Medium,42.8,39,43.9,2,3,3,5.1,2,1,Practice Problems
+S1045,Student_46,Mixed,Physics,67.3,13.4,D,Medium,54.2,65,83.4,0,7,2,5.6,0,1,Practice Problems
+S1046,Student_47,Mixed,Mathematics,65.9,7.5,A,Medium,58.1,60.8,77.3,1,3,4,5.6,1,0,Foundations
+S1047,Student_48,Kinesthetic,Mathematics,47.9,13,D,Hard,80.9,55.4,51.2,1,3,7,7.2,0,1,Practice Problems
+S1048,Student_49,Auditory,Mathematics,70.4,1.6,A,Medium,70.2,128,59.7,1,3,1,9,2,1,Practice Problems
+S1049,Student_50,Auditory,Chemistry,73.4,5.6,B,Easy,38.6,87.1,48.8,2,4,7,9,0,1,Practice Problems
+S1050,Student_51,Kinesthetic,Physics,81.2,8,C,Easy,69.9,37.2,68.7,1,4,3,7.8,2,1,Practice Problems
+S1051,Student_52,Auditory,Mathematics,80.8,8.2,A,Easy,59.2,102.5,89.1,1,4,1,7.6,0,1,Practice Problems
+S1052,Student_53,Kinesthetic,English,44.3,6.2,B,Medium,54.8,138.7,50.3,1,7,2,4.8,0,1,Practice Problems
+S1053,Student_54,Mixed,Mathematics,50.9,10.5,C,Easy,74.2,106,80.1,1,2,1,6.3,0,2,Advanced Concepts
+S1054,Student_55,Kinesthetic,Mathematics,72.7,3.7,C,Medium,80.5,29.4,59.4,0,3,4,6.1,0,0,Foundations
+S1055,Student_56,Mixed,Chemistry,72.7,7.4,C,Medium,79,60.5,54.1,1,2,3,6.3,1,1,Practice Problems
+S1056,Student_57,Mixed,Chemistry,72.7,8.5,C,Easy,52.4,113,67.9,0,3,2,6.8,0,1,Practice Problems
+S1057,Student_58,Visual,Physics,100,10.1,C,Medium,60.4,53.8,49.3,0,4,1,6.4,2,0,Foundations
+S1058,Student_59,Kinesthetic,English,73.6,10.8,B,Easy,70,88.3,58.9,1,4,2,4.6,0,1,Practice Problems
+S1059,Student_60,Visual,Chemistry,82,3.5,B,Easy,79.6,98.2,46,1,3,3,7.9,0,1,Practice Problems
+S1060,Student_61,Kinesthetic,Mathematics,79.3,1.9,A,Medium,57.8,47.2,100,2,2,3,5.7,0,1,Practice Problems
+S1061,Student_62,Kinesthetic,Physics,74.8,13.1,D,Medium,62.2,73.2,70.7,1,5,1,7.3,0,1,Practice Problems
+S1062,Student_63,Visual,Mathematics,60.3,9.3,C,Medium,48.4,10,56,1,2,7,9,0,0,Foundations
+S1063,Student_64,Visual,Mathematics,76.4,5,B,Medium,47.1,44.3,74.3,1,3,2,5.9,1,0,Foundations
+S1064,Student_65,Kinesthetic,Chemistry,53.4,14.2,B,Easy,77.2,67.4,67.8,0,3,3,4,1,1,Practice Problems
+S1065,Student_66,Auditory,Physics,61.4,8.5,D,Hard,85.3,37.6,65.6,1,3,4,6.7,1,1,Practice Problems
+S1066,Student_67,Mixed,English,57.7,12.7,A,Medium,63.9,124,82.3,0,1,3,8.3,1,1,Practice Problems
+S1067,Student_68,Visual,English,66.2,8.3,C,Medium,80.1,32.1,85.2,2,5,6,9,1,2,Advanced Concepts
+S1068,Student_69,Mixed,Chemistry,99.7,16.2,C,Easy,70.4,61.8,59.4,0,2,5,5.5,0,0,Foundations
+S1069,Student_70,Auditory,Chemistry,37,15,C,Medium,55.3,78.9,58.5,1,1,2,7.6,1,1,Practice Problems
+S1070,Student_71,Auditory,Physics,75.3,7,A,Medium,70.4,118.2,64.5,0,3,1,6.4,2,1,Practice Problems
+S1071,Student_72,Auditory,English,40.8,11.9,D,Easy,88.1,31.9,24,2,3,5,6.9,1,1,Practice Problems
+S1072,Student_73,Visual,English,57.9,10.6,D,Hard,64.5,109.9,39.7,1,4,3,9,1,1,Practice Problems
+S1073,Student_74,Auditory,English,81.3,13.5,C,Easy,88.5,75.3,97.3,1,3,5,5.2,0,2,Advanced Concepts
+S1074,Student_75,Visual,Mathematics,66,4.1,C,Hard,25.7,45.6,100,0,1,1,7.3,2,1,Practice Problems
+S1075,Student_76,Auditory,English,48.8,10.7,D,Medium,77.3,88.9,65,1,3,3,7.6,2,1,Practice Problems
+S1076,Student_77,Mixed,Mathematics,54.3,12.2,C,Easy,66.3,81,81.5,0,3,3,8.3,1,1,Practice Problems
+S1077,Student_78,Mixed,Physics,75.2,1,A,Medium,60.5,57,76.2,2,4,3,7.1,2,2,Advanced Concepts
+S1078,Student_79,Kinesthetic,Mathematics,54,3.3,C,Hard,66.4,77.1,100,0,3,2,7.4,0,2,Advanced Concepts
+S1079,Student_80,Mixed,Physics,68.2,0.5,C,Medium,35.2,63.4,92.4,0,3,1,6.5,0,1,Practice Problems
+S1080,Student_81,Kinesthetic,English,65.7,6.9,B,Hard,61.7,78.4,67.4,0,1,4,7.3,2,1,Practice Problems
+S1081,Student_82,Mixed,English,55.2,10.9,C,Medium,70.4,94.9,50.9,1,4,1,6.6,2,1,Practice Problems
+S1082,Student_83,Visual,Physics,97.2,14,D,Medium,87.2,122.6,37.9,1,4,7,7.7,0,1,Practice Problems
+S1083,Student_84,Mixed,Chemistry,74.5,8.3,D,Hard,57.2,37.9,74.1,0,5,2,6.6,0,1,Practice Problems
+S1084,Student_85,Kinesthetic,Physics,34.6,14.5,B,Easy,52.9,139,54.9,2,1,3,7.5,0,1,Practice Problems
+S1085,Student_86,Kinesthetic,Chemistry,67.8,2.5,A,Medium,57.5,16.4,41.6,1,5,3,7,0,1,Practice Problems
+S1086,Student_87,Auditory,Mathematics,55.1,1.2,F,Easy,78.7,70.4,57.1,1,1,6,8.4,2,1,Practice Problems
+S1087,Student_88,Visual,Mathematics,77.8,7.8,D,Hard,69.9,92.6,48.4,1,3,2,6.9,1,1,Practice Problems
+S1088,Student_89,Mixed,Mathematics,53.1,9.5,A,Hard,57.1,83.4,100,1,2,1,4.9,0,2,Advanced Concepts
+S1089,Student_90,Auditory,English,63.3,7.9,D,Easy,72.7,56.3,87.6,1,3,5,8.5,0,1,Practice Problems
+S1090,Student_91,Mixed,Mathematics,72.6,0.5,D,Medium,66.5,68.8,69.8,0,3,2,5.9,0,1,Practice Problems
+S1091,Student_92,Mixed,Chemistry,78,7.6,C,Hard,79.5,60.2,99.6,0,1,6,6.2,0,1,Practice Problems
+S1092,Student_93,Auditory,Mathematics,47,2.8,C,Easy,54.5,57.3,71.5,2,3,3,6.3,1,2,Advanced Concepts
+S1093,Student_94,Auditory,Physics,60,10.7,B,Medium,60.1,100.5,52.8,2,5,4,8.6,2,2,Advanced Concepts
+S1094,Student_95,Auditory,Physics,57.9,9.5,A,Hard,59.1,85.7,100,1,2,2,4.4,2,1,Practice Problems
+S1095,Student_96,Auditory,English,55.2,4.2,B,Easy,43,54.2,80.8,1,3,0,9,0,1,Practice Problems
+S1096,Student_97,Auditory,Physics,91.5,5.9,D,Medium,69.4,102,49.3,1,4,3,8.3,2,1,Practice Problems
+S1097,Student_98,Mixed,Chemistry,71.1,3.8,A,Easy,68.9,84.2,66.2,1,1,5,7.3,2,1,Practice Problems
+S1098,Student_99,Auditory,Mathematics,46.1,7.7,B,Hard,65.1,99.4,52.5,0,3,3,6.9,2,1,Practice Problems
+S1099,Student_100,Visual,English,78.8,11.8,B,Hard,61.5,93.9,42.3,0,2,2,7.3,1,1,Practice Problems
+S1100,Student_101,Kinesthetic,Mathematics,96.8,4.1,C,Hard,43.8,50.1,88.5,1,1,3,7.6,0,1,Practice Problems
+S1101,Student_102,Auditory,Mathematics,80.5,10,D,Medium,58.7,58.2,100,1,2,3,7.8,0,1,Practice Problems
+S1102,Student_103,Auditory,Chemistry,42.2,5.9,B,Hard,59.9,97.4,42,0,4,2,7.7,0,1,Practice Problems
+S1103,Student_104,Mixed,Physics,57.7,4.8,B,Hard,53,93.3,81.3,0,2,2,7.1,0,1,Practice Problems
+S1104,Student_105,Auditory,Physics,84,7.6,C,Easy,62.6,74.4,57,0,3,3,6.8,0,1,Practice Problems
+S1105,Student_106,Auditory,Mathematics,54.4,3.9,B,Hard,71.1,78.5,60.3,1,2,2,6.8,1,1,Practice Problems
+S1106,Student_107,Auditory,English,71.7,5.8,B,Easy,93.3,113.3,58.2,0,6,1,6.8,2,1,Practice Problems
+S1107,Student_108,Mixed,Physics,76.6,3.2,B,Medium,67.6,57.3,52.7,0,2,2,8.4,1,0,Foundations
+S1108,Student_109,Auditory,English,51.1,15.9,A,Easy,68.9,91.4,71,2,5,4,7.7,0,1,Practice Problems
+S1109,Student_110,Kinesthetic,Physics,64.1,8.1,A,Easy,63.9,68.9,53.4,0,3,4,3.5,2,1,Practice Problems
+S1110,Student_111,Mixed,English,20,5.2,B,Easy,36.2,68.5,75.4,1,1,4,7.8,2,1,Practice Problems
+S1111,Student_112,Kinesthetic,Chemistry,49.6,8.9,B,Medium,64.6,108,69,0,2,3,7.2,2,1,Practice Problems
+S1112,Student_113,Mixed,English,61.2,7.6,D,Easy,65.9,99.8,65.2,0,4,3,7,2,1,Practice Problems
+S1113,Student_114,Auditory,Chemistry,46.3,7.1,B,Medium,100,99.4,51.8,0,3,1,6.5,1,1,Practice Problems
+S1114,Student_115,Kinesthetic,Chemistry,89.5,10.5,C,Easy,62.1,114.2,58.5,1,4,4,8.3,2,1,Practice Problems
+S1115,Student_116,Mixed,English,43.5,11,C,Easy,69.5,75.6,85.1,2,4,2,8.1,0,1,Practice Problems
+S1116,Student_117,Visual,Chemistry,58.4,5.9,A,Medium,64.5,95.5,80,2,2,2,6.1,0,2,Advanced Concepts
+S1117,Student_118,Auditory,Mathematics,67,5.7,C,Medium,47.5,65.7,50.4,1,1,2,7.5,0,1,Practice Problems
+S1118,Student_119,Mixed,Chemistry,86.6,6.9,A,Easy,82.1,84.7,72,1,2,6,5.8,0,1,Practice Problems
+S1119,Student_120,Visual,Physics,43.5,0.5,F,Medium,76.3,71.1,85,0,5,1,5.3,0,1,Practice Problems
+S1120,Student_121,Mixed,English,82.4,1.9,A,Hard,76.9,77.9,36.6,1,3,2,6.2,1,0,Foundations
+S1121,Student_122,Visual,Mathematics,65.2,13.5,B,Medium,51.4,92.9,80.9,2,5,2,8,2,1,Practice Problems
+S1122,Student_123,Auditory,English,50.3,14.6,A,Easy,86,50.5,56.7,0,4,2,8.1,1,1,Practice Problems
+S1123,Student_124,Kinesthetic,Physics,71.9,7,F,Easy,44,137.8,81.4,0,3,5,7.6,0,1,Practice Problems
+S1124,Student_125,Visual,Physics,68,10.3,C,Hard,73.8,44.8,54.7,0,4,3,7.9,2,1,Practice Problems
+S1125,Student_126,Mixed,Physics,56,9.2,C,Easy,97.9,38.6,33.9,0,3,1,7.6,1,1,Practice Problems
+S1126,Student_127,Auditory,Chemistry,66,20.3,A,Hard,50.1,109.7,37.4,0,3,3,6.2,0,0,Foundations
+S1127,Student_128,Visual,Chemistry,59.2,12.5,C,Medium,56.5,98.7,71,1,3,5,7.5,1,1,Practice Problems
+S1128,Student_129,Mixed,English,66.7,7.5,B,Hard,66.5,93.7,75.2,1,4,4,8,0,1,Practice Problems
+S1129,Student_130,Mixed,English,74.9,4.2,D,Medium,57.4,93.9,51.9,2,2,4,7.9,0,1,Practice Problems
+S1130,Student_131,Mixed,Mathematics,88.8,1.6,B,Hard,41.7,74.6,82.8,2,3,5,8.4,2,1,Practice Problems
+S1131,Student_132,Visual,Mathematics,46.4,8.8,A,Medium,66,48.1,36.8,1,4,2,7.8,0,0,Foundations
+S1132,Student_133,Visual,English,97,5,A,Medium,49.1,77.3,68.7,1,3,3,7.4,1,0,Foundations
+S1133,Student_134,Visual,Chemistry,35.7,2.3,B,Medium,72.1,54.7,45.8,1,1,2,8.3,2,1,Practice Problems
+S1134,Student_135,Kinesthetic,Physics,62.7,5.4,C,Medium,51.2,104.3,57,1,2,8,7,2,1,Practice Problems
+S1135,Student_136,Visual,English,73.8,3.7,A,Medium,88.2,70.6,70.9,1,3,3,5.9,0,1,Practice Problems
+S1136,Student_137,Visual,Mathematics,69.2,14.7,C,Hard,53.3,50.2,52.8,1,3,4,6.8,0,1,Practice Problems
+S1137,Student_138,Visual,Chemistry,55.7,11.5,B,Hard,60.2,65.4,62.3,1,2,5,6.1,0,1,Practice Problems
+S1138,Student_139,Kinesthetic,English,61.9,8,C,Medium,77.2,87.4,90.1,1,1,4,6.2,1,2,Advanced Concepts
+S1139,Student_140,Visual,English,57.6,13.9,B,Medium,46.5,58.1,58.5,1,6,3,6.8,1,1,Practice Problems
+S1140,Student_141,Mixed,Chemistry,56.2,8.3,B,Medium,68.4,50.3,86.7,1,3,3,6,0,1,Practice Problems
+S1141,Student_142,Visual,English,77.7,4.6,C,Medium,84.6,82.3,47.4,2,2,1,6.6,2,1,Practice Problems
+S1142,Student_143,Mixed,Chemistry,70.4,14.1,A,Easy,40.9,82.3,80.6,2,3,4,4.7,1,1,Practice Problems
+S1143,Student_144,Mixed,Physics,54.6,10.2,A,Easy,67.8,59.8,98.8,0,1,4,7.3,0,1,Practice Problems
+S1144,Student_145,Mixed,Chemistry,78.5,3.9,D,Medium,68.9,60.9,20.6,2,3,3,7,1,1,Practice Problems
+S1145,Student_146,Kinesthetic,Chemistry,69.6,7.2,D,Easy,76.7,82,54.1,1,2,2,6,1,1,Practice Problems
+S1146,Student_147,Kinesthetic,Chemistry,77.2,4.5,B,Easy,46.4,31.6,81.5,2,4,5,7.8,0,1,Practice Problems
+S1147,Student_148,Kinesthetic,English,74.4,2.5,B,Easy,45.2,32.8,65.9,2,5,1,8.1,0,1,Practice Problems
+S1148,Student_149,Visual,English,52.6,11.7,C,Easy,72.8,53.4,77.4,1,3,7,5.1,2,1,Practice Problems
+S1149,Student_150,Mixed,Chemistry,56.6,15.6,B,Easy,69.5,68.6,57.9,0,1,3,6.1,1,0,Foundations
+S1150,Student_151,Kinesthetic,English,76.2,2.4,A,Hard,68.8,84.3,71.7,1,3,4,6.1,1,1,Practice Problems
+S1151,Student_152,Kinesthetic,Mathematics,74.2,10.3,A,Medium,70.2,119.3,66.9,1,3,2,5.9,1,1,Practice Problems
+S1152,Student_153,Visual,Mathematics,64.7,5.4,C,Medium,54.8,100.7,93.4,1,4,0,8,0,1,Practice Problems
+S1153,Student_154,Kinesthetic,English,66.8,6.1,C,Medium,68.5,70.2,75.1,1,6,4,6.8,0,1,Practice Problems
+S1154,Student_155,Visual,English,84.2,5.6,A,Easy,69.4,74.4,76.8,0,3,3,6.7,1,1,Practice Problems
+S1155,Student_156,Auditory,Chemistry,56.1,4.5,B,Hard,54.3,44.9,61.8,2,4,4,4.6,0,0,Foundations
+S1156,Student_157,Kinesthetic,Physics,73.2,8.2,B,Medium,93,74.4,60.2,2,4,3,7.8,0,1,Practice Problems
+S1157,Student_158,Auditory,English,62,4.7,C,Easy,72.1,66.3,61.3,1,3,1,5.5,2,1,Practice Problems
+S1158,Student_159,Visual,Mathematics,61.7,9.1,A,Medium,47.1,84.7,77.9,0,6,0,7.1,2,1,Practice Problems
+S1159,Student_160,Mixed,Chemistry,81.5,7.8,A,Hard,74.8,50.2,61.6,1,3,3,7.3,2,1,Practice Problems
+S1160,Student_161,Kinesthetic,English,77.4,7,C,Hard,50.4,90.6,75.8,0,6,2,8.6,2,1,Practice Problems
+S1161,Student_162,Visual,Mathematics,77.2,4.4,A,Medium,76.8,121,100,2,1,6,5.4,0,2,Advanced Concepts
+S1162,Student_163,Mixed,Mathematics,84.6,5.7,C,Medium,82.4,71.7,87.4,0,2,2,3.4,2,2,Advanced Concepts
+S1163,Student_164,Mixed,Physics,65.3,11,B,Easy,52.7,87.1,63.5,1,2,4,7.2,0,1,Practice Problems
+S1164,Student_165,Auditory,Chemistry,75.2,10,A,Hard,79.5,95.7,94,1,3,3,9,2,2,Advanced Concepts
+S1165,Student_166,Visual,Chemistry,60.3,4.1,B,Easy,71.2,63,61.8,1,2,7,8.5,2,1,Practice Problems
+S1166,Student_167,Mixed,Physics,69.9,8.4,C,Hard,77.3,81.7,29.2,1,2,5,7.3,2,1,Practice Problems
+S1167,Student_168,Kinesthetic,Physics,63,11,D,Medium,93.5,75.4,49.8,2,1,4,6.4,2,2,Advanced Concepts
+S1168,Student_169,Kinesthetic,Chemistry,66.5,1.3,D,Medium,61.3,77.9,32.6,0,4,1,8,1,0,Foundations
+S1169,Student_170,Auditory,Chemistry,73.9,10.2,B,Medium,53.7,51.8,63,0,4,6,5.8,0,0,Foundations
+S1170,Student_171,Mixed,English,52.7,5.3,C,Easy,51.7,75.7,70.4,0,1,1,7.6,1,1,Practice Problems
+S1171,Student_172,Visual,English,96.4,10.3,B,Easy,52.8,89.9,100,2,2,2,7.6,1,1,Practice Problems
+S1172,Student_173,Kinesthetic,Physics,49.9,4.9,B,Easy,63.8,118.5,76.5,2,3,1,8.3,0,1,Practice Problems
+S1173,Student_174,Mixed,English,46.8,0.8,D,Easy,70.1,103.8,65.6,1,6,3,9,1,1,Practice Problems
+S1174,Student_175,Mixed,Mathematics,82.4,1.5,A,Medium,69.2,139.6,86.6,1,2,2,7.5,2,1,Practice Problems
+S1175,Student_176,Auditory,English,76.9,8.2,A,Medium,77.4,52,25.8,1,4,1,6.4,0,0,Foundations
+S1176,Student_177,Kinesthetic,English,74.4,9,B,Easy,65.2,101.2,74.7,0,1,0,7,2,1,Practice Problems
+S1177,Student_178,Kinesthetic,Mathematics,74.4,4.4,A,Hard,86.8,80.5,85.4,2,3,1,4.9,2,2,Advanced Concepts
+S1178,Student_179,Visual,Physics,64.8,10.6,A,Hard,61,140.7,40.4,1,2,1,6.2,2,0,Foundations
+S1179,Student_180,Kinesthetic,Mathematics,51.5,1.4,C,Hard,100,50.8,92.9,1,2,5,6.5,2,2,Advanced Concepts
+S1180,Student_181,Visual,English,66.1,7.7,B,Hard,74.4,49.8,76.8,1,3,2,6.4,1,1,Practice Problems
+S1181,Student_182,Kinesthetic,Physics,54.8,3.2,D,Easy,52.1,57,61.7,0,3,6,7.2,2,0,Foundations
+S1182,Student_183,Auditory,English,79.6,5.4,D,Medium,48.9,11.3,82.7,0,2,2,6,2,0,Foundations
+S1183,Student_184,Kinesthetic,Mathematics,62.8,8.2,B,Medium,72.2,59.2,100,1,2,5,8.3,0,1,Practice Problems
+S1184,Student_185,Visual,Mathematics,52.6,4.6,B,Medium,61.6,52.2,73.6,0,2,2,7,1,1,Practice Problems
+S1185,Student_186,Visual,English,60.2,6.5,B,Easy,75.7,79.5,75,1,2,1,7,2,1,Practice Problems
+S1186,Student_187,Auditory,Chemistry,71.2,12,C,Hard,72.1,85.3,60.8,0,4,1,6.6,0,1,Practice Problems
+S1187,Student_188,Kinesthetic,Chemistry,56.5,5.7,B,Easy,63.9,131.3,53,1,3,2,7.2,1,1,Practice Problems
+S1188,Student_189,Kinesthetic,Mathematics,52.7,11.3,C,Easy,52.3,103.5,86.6,1,6,3,8,1,1,Practice Problems
+S1189,Student_190,Auditory,Mathematics,68.7,3.5,B,Medium,42.3,57.7,52.9,1,2,2,6,0,0,Foundations
+S1190,Student_191,Kinesthetic,Chemistry,68.7,10.1,C,Medium,58.3,48,71.4,1,4,1,6.2,1,1,Practice Problems
+S1191,Student_192,Kinesthetic,Chemistry,57.4,13.8,B,Medium,77.8,89.8,60.4,1,3,5,6.6,2,1,Practice Problems
+S1192,Student_193,Visual,English,57.9,0.5,B,Easy,68.2,35.4,79.6,1,4,5,5.4,1,1,Practice Problems
+S1193,Student_194,Kinesthetic,English,68.5,4.8,D,Hard,46.3,129.9,76.7,1,4,2,6,0,1,Practice Problems
+S1194,Student_195,Kinesthetic,Chemistry,43.3,10.3,C,Easy,67.6,110.4,90.8,1,4,1,6.4,0,1,Practice Problems
+S1195,Student_196,Auditory,English,43.9,7.2,A,Easy,70.8,60.9,59.8,2,1,3,8,0,1,Practice Problems
+S1196,Student_197,Auditory,English,54.2,9.5,D,Hard,51.7,23.6,64.6,1,4,0,7.3,2,1,Practice Problems
+S1197,Student_198,Mixed,Physics,61.8,5.6,B,Hard,67.3,115.6,50.4,0,3,2,7.2,0,0,Foundations
+S1198,Student_199,Visual,English,69.7,8.3,D,Hard,65.9,71.6,61.1,0,2,6,8,1,1,Practice Problems
+S1199,Student_200,Kinesthetic,Mathematics,87.1,7.4,C,Hard,47.9,112.1,77.5,1,3,7,6.8,0,1,Practice Problems
